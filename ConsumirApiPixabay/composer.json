@@ -1,0 +1,20 @@
+{
+    "name": "pc/consumir-api-pixabay",
+    "description": "Api PixaBay",
+    "type": "project",
+    "license": "free",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "FrancisFoRL",
+            "email": "francis.cb12@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
